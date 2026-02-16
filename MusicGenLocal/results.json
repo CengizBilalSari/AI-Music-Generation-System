@@ -1,0 +1,56 @@
+{
+  "api": "MusicGen (Local)",
+  "model": "facebook/musicgen-small",
+  "device": "cuda",
+  "total_generations": 4,
+  "results": [
+    {
+      "prompt": "A relaxing lo-fi beat for studying late at night with soft piano and vinyl crackle",
+      "model": "facebook/musicgen-small",
+      "model_size": "small",
+      "device": "cuda",
+      "duration_requested_s": 30,
+      "duration_actual_s": 29.94,
+      "output_file": "generated_music\\20260216_121018_A_relaxing_lofi_beat_for_studying_late_.wav",
+      "file_size_bytes": 3832378,
+      "generation_time_s": 57.275,
+      "created_at": "2026-02-16T12:11:15.564907"
+    },
+    {
+      "prompt": "An epic cinematic orchestral piece with rising strings, powerful brass, and dramatic timpani",
+      "model": "facebook/musicgen-small",
+      "model_size": "small",
+      "device": "cuda",
+      "duration_requested_s": 30,
+      "duration_actual_s": 29.94,
+      "output_file": "generated_music\\20260216_121115_An_epic_cinematic_orchestral_piece_with_.wav",
+      "file_size_bytes": 3832378,
+      "generation_time_s": 53.625,
+      "created_at": "2026-02-16T12:12:09.437665"
+    },
+    {
+      "prompt": "A catchy upbeat pop song with bright guitars, punchy drums, and a fun singalong melody",
+      "model": "facebook/musicgen-small",
+      "model_size": "small",
+      "device": "cuda",
+      "duration_requested_s": 20,
+      "duration_actual_s": 19.94,
+      "output_file": "generated_music\\20260216_121209_A_catchy_upbeat_pop_song_with_bright_gui.wav",
+      "file_size_bytes": 2552378,
+      "generation_time_s": 32.627,
+      "created_at": "2026-02-16T12:12:42.115062"
+    },
+    {
+      "prompt": "An intimate acoustic folk piece with fingerpicked guitar, warm and emotional, slow tempo",
+      "model": "facebook/musicgen-small",
+      "model_size": "small",
+      "device": "cuda",
+      "duration_requested_s": 30,
+      "duration_actual_s": 29.94,
+      "output_file": "generated_music\\20260216_121242_An_intimate_acoustic_folk_piece_with_fin.wav",
+      "file_size_bytes": 3832378,
+      "generation_time_s": 55.708,
+      "created_at": "2026-02-16T12:13:38.092606"
+    }
+  ]
+}
