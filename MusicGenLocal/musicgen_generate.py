@@ -4,7 +4,7 @@ import json
 import datetime
 import scipy.io.wavfile
 
-from utils import (
+from musicgen_utils import (
     MODEL_NAME,
     MODEL_SIZE,
     DEFAULT_DURATION_S,

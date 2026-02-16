@@ -1,7 +1,7 @@
 import time
 import requests
 
-from utils import (
+from suno_utils import (
     API_KEY,
     ENDPOINTS,
     DEFAULT_MODEL,

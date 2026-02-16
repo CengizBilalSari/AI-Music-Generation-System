@@ -1,0 +1,162 @@
+{
+  "question": "Q2: Prompt Engineering",
+  "timestamp": "2026-02-16T15:02:51.002489",
+  "total_prompts": 3,
+  "prompts": [
+    {
+      "name": "2000s Pop - Narrative",
+      "description": "Descriptive/Narrative: Focuses on the vibe, era, and feeling of early 2000s pop."
+    },
+    {
+      "name": "2000s Pop - Structural",
+      "description": "Structural/Formal: Emphasizing technical structure and specific instrument roles."
+    },
+    {
+      "name": "2000s Pop - Tag-based",
+      "description": "Keyword/Tag-based: Focuses on descriptive keywords and genre tags for best model steering."
+    }
+  ],
+  "results": [
+    {
+      "api": "Suno",
+      "prompt_name": "2000s Pop - Narrative",
+      "model": "V4_5ALL",
+      "prompt_chars": 750,
+      "total_time_s": 276.896,
+      "tracks_generated": 2,
+      "error": null,
+      "tracks": [
+        {
+          "title": "Bubblegum Dreams",
+          "tags": "Pop, Early 2000s, Teen Pop, Female Vocals, Upbeat, Radio-Friendly, Bright",
+          "duration_s": 181.04,
+          "model_name": "chirp-auk-turbo",
+          "audio_url": "https://tempfile.aiquickdraw.com/r/9b3882c75af04df4b569213726672e86.mp3",
+          "stream_url": "https://musicfile.removeai.ai/YWVjYjNjZTctYmNhZS00ODBjLTlhMTAtOGEyMmE2YTZlN2Fi",
+          "image_url": "https://musicfile.removeai.ai/YWVjYjNjZTctYmNhZS00ODBjLTlhMTAtOGEyMmE2YTZlN2Fi.jpeg"
+        },
+        {
+          "title": "Bubblegum Dreams",
+          "tags": "Pop, Early 2000s, Teen Pop, Female Vocals, Upbeat, Radio-Friendly, Bright",
+          "duration_s": 89.92,
+          "model_name": "chirp-auk-turbo",
+          "audio_url": "https://tempfile.aiquickdraw.com/r/6f0c9acb84b647e5b5375991c8ef5e2a.mp3",
+          "stream_url": "https://musicfile.removeai.ai/YjVjMTdmNWUtOGNmZi00NGY3LWE5OTQtYTkwNmM3ZjlmYTBi",
+          "image_url": "https://musicfile.removeai.ai/YjVjMTdmNWUtOGNmZi00NGY3LWE5OTQtYTkwNmM3ZjlmYTBi.jpeg"
+        }
+      ]
+    },
+    {
+      "api": "MusicGen (Local)",
+      "prompt_name": "2000s Pop - Narrative",
+      "model": "facebook/musicgen-small",
+      "device": "cuda",
+      "prompt_chars": 199,
+      "total_time_s": 56.134,
+      "tracks_generated": 1,
+      "error": null,
+      "tracks": [
+        {
+          "output_file": "generated_music\\20260216_145411_A_bright_upbeat_early_2000s_teen_pop_so.wav",
+          "file_size_kb": 3742.6,
+          "duration_actual_s": 29.94,
+          "duration_requested_s": 30
+        }
+      ]
+    },
+    {
+      "api": "Suno",
+      "prompt_name": "2000s Pop - Structural",
+      "model": "V4_5ALL",
+      "prompt_chars": 659,
+      "total_time_s": 155.291,
+      "tracks_generated": 2,
+      "error": null,
+      "tracks": [
+        {
+          "title": "Masterpiece",
+          "tags": "Pop, Early 2000s, Radio-friendly, Guitar-driven, Female Vocals, Verse-Chorus Structure",
+          "duration_s": 134.52,
+          "model_name": "chirp-auk-turbo",
+          "audio_url": "https://tempfile.aiquickdraw.com/r/f2a803a97cb640ccb2094fba425eb6da.mp3",
+          "stream_url": "https://musicfile.removeai.ai/ZWVlZDk2ODAtOWE4ZC00M2ZlLWE0ZWItMzU5MGVjNmU2MmU4",
+          "image_url": "https://musicfile.removeai.ai/ZWVlZDk2ODAtOWE4ZC00M2ZlLWE0ZWItMzU5MGVjNmU2MmU4.jpeg"
+        },
+        {
+          "title": "Masterpiece",
+          "tags": "Pop, Early 2000s, Radio-friendly, Guitar-driven, Female Vocals, Verse-Chorus Structure",
+          "duration_s": 159.04,
+          "model_name": "chirp-auk-turbo",
+          "audio_url": "https://tempfile.aiquickdraw.com/r/508fbb4bbb994e6ba4b896ee4a42b549.mp3",
+          "stream_url": "https://musicfile.removeai.ai/ZjFlMTA2MDMtMjI4ZS00NWI0LThhZGItYjg5ODQ4YmU0NWM5",
+          "image_url": "https://musicfile.removeai.ai/ZjFlMTA2MDMtMjI4ZS00NWI0LThhZGItYjg5ODQ4YmU0NWM5.jpeg"
+        }
+      ]
+    },
+    {
+      "api": "MusicGen (Local)",
+      "prompt_name": "2000s Pop - Structural",
+      "model": "facebook/musicgen-small",
+      "device": "cuda",
+      "prompt_chars": 199,
+      "total_time_s": 55.169,
+      "tracks_generated": 1,
+      "error": null,
+      "tracks": [
+        {
+          "output_file": "generated_music\\20260216_145743_Catchy_pop_song_early_2000s_female_voc.wav",
+          "file_size_kb": 3742.6,
+          "duration_actual_s": 29.94,
+          "duration_requested_s": 30
+        }
+      ]
+    },
+    {
+      "api": "Suno",
+      "prompt_name": "2000s Pop - Tag-based",
+      "model": "V4_5ALL",
+      "prompt_chars": 108,
+      "total_time_s": 198.392,
+      "tracks_generated": 2,
+      "error": null,
+      "tracks": [
+        {
+          "title": "Radio Hits",
+          "tags": "Pop, Early 2000s, Guitar-driven, Female Vocals, Upbeat, Radio-Friendly",
+          "duration_s": 166.04,
+          "model_name": "chirp-auk-turbo",
+          "audio_url": "https://tempfile.aiquickdraw.com/r/8ed8904fd6f64bbfb4f251b2487f64f8.mp3",
+          "stream_url": "https://musicfile.removeai.ai/ZWE4ODBiNTUtYzBlZC00N2M5LThhMWEtZmI2MzhiY2FkNWJl",
+          "image_url": "https://musicfile.removeai.ai/ZWE4ODBiNTUtYzBlZC00N2M5LThhMWEtZmI2MzhiY2FkNWJl.jpeg"
+        },
+        {
+          "title": "Radio Hits",
+          "tags": "Pop, Early 2000s, Guitar-driven, Female Vocals, Upbeat, Radio-Friendly",
+          "duration_s": 179.72,
+          "model_name": "chirp-auk-turbo",
+          "audio_url": "https://tempfile.aiquickdraw.com/r/62f5b9689c8741c2bceb70d11c8576e8.mp3",
+          "stream_url": "https://musicfile.removeai.ai/MDhhM2IyMWItMGQ5Zi00NjU2LTlhMTMtOTg4MDhmOWI5ZDJi",
+          "image_url": "https://musicfile.removeai.ai/MDhhM2IyMWItMGQ5Zi00NjU2LTlhMTMtOTg4MDhmOWI5ZDJi.jpeg"
+        }
+      ]
+    },
+    {
+      "api": "MusicGen (Local)",
+      "prompt_name": "2000s Pop - Tag-based",
+      "model": "facebook/musicgen-small",
+      "device": "cuda",
+      "prompt_chars": 91,
+      "total_time_s": 53.611,
+      "tracks_generated": 1,
+      "error": null,
+      "tracks": [
+        {
+          "output_file": "generated_music\\20260216_150157_Pop_2000s_female_lead_electric_guitar.wav",
+          "file_size_kb": 3742.6,
+          "duration_actual_s": 29.94,
+          "duration_requested_s": 30
+        }
+      ]
+    }
+  ]
+}
