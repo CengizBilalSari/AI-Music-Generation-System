@@ -1,0 +1,103 @@
+{
+    "generations": [
+        {
+            "request": "non_custom",
+            "prompt": "A short relaxing piano tune with gentle melodies",
+            "model": "chirp-auk-turbo",
+            "time_to_success_s": 225,
+            "tracks": [
+                {
+                    "title": "Quiet Window Light",
+                    "style_tags": "Soft, intimate solo piano; slow tempo with flowing right-hand melodies over warm, open left-hand chords. Gentle rubato and plenty of sustain, like a late-afternoon practice room. Dynamics bloom slightly in the middle then settle back into a tender, breathing close, perfect for a 2–3 minute calming interlude., gentle, relaxing",
+                    "duration_s": 156.48,
+                    "model": "chirp-auk-turbo",
+                    "created_at": 1771221259677,
+                    "created_at_readable": "2026-02-16T08:54:19",
+                    "audio_url": "https://tempfile.aiquickdraw.com/r/02d8e4ed261b4c37b9f019c95c61b756.mp3",
+                    "stream_url": "https://musicfile.removeai.ai/NWViNTkyNWMtMzNlMi00YWRhLTg4NTItNmQ4ZTU1OWUwY2Y4",
+                    "image_url": "https://musicfile.removeai.ai/NWViNTkyNWMtMzNlMi00YWRhLTg4NTItNmQ4ZTU1OWUwY2Y4.jpeg"
+                },
+                {
+                    "title": "Quiet Window Light",
+                    "style_tags": "Soft, intimate solo piano; slow tempo with flowing right-hand melodies over warm, open left-hand chords. Gentle rubato and plenty of sustain, like a late-afternoon practice room. Dynamics bloom slightly in the middle then settle back into a tender, breathing close, perfect for a 2–3 minute calming interlude., gentle, relaxing",
+                    "duration_s": 268.32,
+                    "model": "chirp-auk-turbo",
+                    "created_at": 1771221259677,
+                    "created_at_readable": "2026-02-16T08:54:19",
+                    "audio_url": "https://tempfile.aiquickdraw.com/r/be36d2bf17eb43a884095fff0a640076.mp3",
+                    "stream_url": "https://musicfile.removeai.ai/OWE5OWIzNzMtMzZhNC00Y2JiLThlZTQtNDU3YzhiZmU4NDgy",
+                    "image_url": "https://musicfile.removeai.ai/OWE5OWIzNzMtMzZhNC00Y2JiLThlZTQtNDU3YzhiZmU4NDgy.jpeg"
+                }
+            ]
+        },
+        {
+            "request": "custom_instrumental",
+            "prompt": "A calm and relaxing piano track with soft melodies",
+            "custom_mode": true,
+            "instrumental": true,
+            "style": "Classical",
+            "title": "Peaceful Piano Meditation",
+            "model": "chirp-auk-turbo",
+            "time_to_success_s": 225,
+            "tracks": [
+                {
+                    "title": "Peaceful Piano Meditation",
+                    "style_tags": "Classical",
+                    "duration_s": 269.96,
+                    "model": "chirp-auk-turbo",
+                    "created_at": 1771221496150,
+                    "created_at_readable": "2026-02-16T08:58:16",
+                    "audio_url": "https://tempfile.aiquickdraw.com/r/4fc8071e16ad4468973d4378b8950791.mp3",
+                    "stream_url": "https://musicfile.removeai.ai/ZDEwNjExNjQtMGU1Mi00NDdjLTg0YzUtYzc3NDBlZTM3NDAz",
+                    "image_url": "https://musicfile.removeai.ai/ZDEwNjExNjQtMGU1Mi00NDdjLTg0YzUtYzc3NDBlZTM3NDAz.jpeg"
+                },
+                {
+                    "title": "Peaceful Piano Meditation",
+                    "style_tags": "Classical",
+                    "duration_s": 344.2,
+                    "model": "chirp-auk-turbo",
+                    "created_at": 1771221496150,
+                    "created_at_readable": "2026-02-16T08:58:16",
+                    "audio_url": "https://tempfile.aiquickdraw.com/r/a08a5997dc8f4700be0ebe7e08c9b457.mp3",
+                    "stream_url": "https://musicfile.removeai.ai/NmY4M2QxYWUtODc1MC00ZGQ1LThiNWMtNzQzNjVhMjc3Zjgx",
+                    "image_url": "https://musicfile.removeai.ai/NmY4M2QxYWUtODc1MC00ZGQ1LThiNWMtNzQzNjVhMjc3Zjgx.jpeg"
+                }
+            ]
+        },
+        {
+            "request": "custom_with_lyrics",
+            "prompt": "[Verse]\nSunrise over the hills\n[Chorus]\nA brand new day begins",
+            "custom_mode": true,
+            "instrumental": false,
+            "style": "Pop, Acoustic",
+            "title": "Brand New Day",
+            "model": "V5",
+            "model_used": "chirp-crow",
+            "time_to_success_s": 30,
+            "tracks": [
+                {
+                    "title": "Brand New Day",
+                    "style_tags": "Pop, Acoustic",
+                    "duration_s": 19.96,
+                    "model": "chirp-crow",
+                    "created_at": 1771221534685,
+                    "created_at_readable": "2026-02-16T08:58:54",
+                    "audio_url": "https://tempfile.aiquickdraw.com/r/fa99b3d0ca904582a6d15fdd3b2b3736.mp3",
+                    "stream_url": "https://musicfile.removeai.ai/YmZhM2EzNzMtMTVkZC00MjNiLTk4ZTctODI0MzFkY2UzZTA5",
+                    "image_url": "https://musicfile.removeai.ai/YmZhM2EzNzMtMTVkZC00MjNiLTk4ZTctODI0MzFkY2UzZTA5.jpeg"
+                },
+                {
+                    "title": "Brand New Day",
+                    "style_tags": "Pop, Acoustic",
+                    "duration_s": 11.12,
+                    "model": "chirp-crow",
+                    "created_at": 1771221534685,
+                    "created_at_readable": "2026-02-16T08:58:54",
+                    "audio_url": "https://tempfile.aiquickdraw.com/r/a6e8c46b5c834002aff95726363032a4.mp3",
+                    "stream_url": "https://musicfile.removeai.ai/MWM1MTkwYmMtMTNhMC00ZTY4LWIyZmQtMDczMTkxMzY2YTNm",
+                    "image_url": "https://musicfile.removeai.ai/MWM1MTkwYmMtMTNhMC00ZTY4LWIyZmQtMDczMTkxMzY2YTNm.jpeg"
+                }
+            ]
+        }
+    ]
+}
